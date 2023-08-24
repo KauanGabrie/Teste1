@@ -1,0 +1,43 @@
+body{
+    background-color: white ;
+    color: #f6f6f6f6;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+
+strong{
+ color:red;
+ 
+}
+
+h1{
+    font-weight: bold;
+    
+}
+h2{
+    color: green;
+}
+.suamãe{
+    color: red;
+}
+.suamae{
+    color: aqua;
+}
+.suame{
+    color: blueviolet;
+}
+.suamAe{
+    color: chartreuse;
+}
+.sua{
+    color: deeppink;
+}
+.su{
+    color: lightseagreen;
+}
+.ma{
+    color: midnightblue;
+}
+.e{
+    color: chocolate;
+}
